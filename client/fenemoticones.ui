@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>fenemoticones</class>
+ <widget class="QDialog" name="fenemoticones">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>172</width>
+    <height>131</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Emoticones</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>../client-build-desktop-Qt_4_8_1_for_Desktop_-_MSVC2010__Qt_SDK__Release/release/res/smile.png</normaloff>../client-build-desktop-Qt_4_8_1_for_Desktop_-_MSVC2010__Qt_SDK__Release/release/res/smile.png</iconset>
+  </property>
+  <property name="modal">
+   <bool>false</bool>
+  </property>
+  <widget class="QCommandLinkButton" name="emo0">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>32</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>32</width>
+     <height>32</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>32</width>
+     <height>32</height>
+    </size>
+   </property>
+   <property name="toolTip">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../client-build-desktop-Qt_4_8_1_for_Desktop_-_MSVC2010__Qt_SDK__Release/release/emoticones/0.png</normaloff>../client-build-desktop-Qt_4_8_1_for_Desktop_-_MSVC2010__Qt_SDK__Release/release/emoticones/0.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>20</width>
+     <height>20</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QCommandLinkButton" name="emo1">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>10</y>
+     <width>32</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>32</width>
+     <height>32</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>32</width>
+     <height>32</height>
+    </size>
+   </property>
+   <property name="toolTip">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;;)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../client-build-desktop-Qt_4_8_1_for_Desktop_-_MSVC2010__Qt_SDK__Release/release/emoticones/1.png</normaloff>../client-build-desktop-Qt_4_8_1_for_Desktop_-_MSVC2010__Qt_SDK__Release/release/emoticones/1.png</iconset>
+   </property>
+  </widget>
+  <widget class="QCommandLinkButton" name="emo2">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>10</y>
+     <width>32</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>32</width>
+     <height>32</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>32</width>
+     <height>32</height>
+    </size>
+   </property>
+   <property name="toolTip">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&amp;lt;3&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../client-build-desktop-Qt_4_8_1_for_Desktop_-_MSVC2010__Qt_SDK__Release/release/emoticones/2.png</normaloff>../client-build-desktop-Qt_4_8_1_for_Desktop_-_MSVC2010__Qt_SDK__Release/release/emoticones/2.png</iconset>
+   </property>
+  </widget>
+  <widget class="QCommandLinkButton" name="emo4">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>50</y>
+     <width>32</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>32</width>
+     <height>32</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>32</width>
+     <height>32</height>
+    </size>
+   </property>
+   <property name="toolTip">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:(&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../client-build-desktop-Qt_4_8_1_for_Desktop_-_MSVC2010__Qt_SDK__Release/release/emoticones/4.png</normaloff>../client-build-desktop-Qt_4_8_1_for_Desktop_-_MSVC2010__Qt_SDK__Release/release/emoticones/4.png</iconset>
+   </property>
+  </widget>
+  <widget class="QCommandLinkButton" name="emo5">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>50</y>
+     <width>32</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>32</width>
+     <height>32</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>32</width>
+     <height>32</height>
+    </size>
+   </property>
+   <property name="toolTip">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:g&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../client-build-desktop-Qt_4_8_1_for_Desktop_-_MSVC2010__Qt_SDK__Release/release/emoticones/5.png</normaloff>../client-build-desktop-Qt_4_8_1_for_Desktop_-_MSVC2010__Qt_SDK__Release/release/emoticones/5.png</iconset>
+   </property>
+  </widget>
+  <widget class="QCommandLinkButton" name="emo3">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>10</y>
+     <width>32</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>32</width>
+     <height>32</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>32</width>
+     <height>32</height>
+    </size>
+   </property>
+   <property name="toolTip">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:/&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../client-build-desktop-Qt_4_8_1_for_Desktop_-_MSVC2010__Qt_SDK__Release/release/emoticones/3.png</normaloff>../client-build-desktop-Qt_4_8_1_for_Desktop_-_MSVC2010__Qt_SDK__Release/release/emoticones/3.png</iconset>
+   </property>
+  </widget>
+  <widget class="QCommandLinkButton" name="emo6">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>50</y>
+     <width>32</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>32</width>
+     <height>32</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>32</width>
+     <height>32</height>
+    </size>
+   </property>
+   <property name="toolTip">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:p&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../client-build-desktop-Qt_4_8_1_for_Desktop_-_MSVC2010__Qt_SDK__Release/release/emoticones/6.png</normaloff>../client-build-desktop-Qt_4_8_1_for_Desktop_-_MSVC2010__Qt_SDK__Release/release/emoticones/6.png</iconset>
+   </property>
+  </widget>
+  <widget class="QCommandLinkButton" name="emo7">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>50</y>
+     <width>32</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>32</width>
+     <height>32</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>32</width>
+     <height>32</height>
+    </size>
+   </property>
+   <property name="toolTip">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:D&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../client-build-desktop-Qt_4_8_1_for_Desktop_-_MSVC2010__Qt_SDK__Release/release/emoticones/7.png</normaloff>../client-build-desktop-Qt_4_8_1_for_Desktop_-_MSVC2010__Qt_SDK__Release/release/emoticones/7.png</iconset>
+   </property>
+  </widget>
+  <widget class="QCommandLinkButton" name="emo8">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>90</y>
+     <width>32</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>32</width>
+     <height>32</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>32</width>
+     <height>32</height>
+    </size>
+   </property>
+   <property name="toolTip">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;;D&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../client-build-desktop-Qt_4_8_1_for_Desktop_-_MSVC2010__Qt_SDK__Release/release/emoticones/8.png</normaloff>../client-build-desktop-Qt_4_8_1_for_Desktop_-_MSVC2010__Qt_SDK__Release/release/emoticones/8.png</iconset>
+   </property>
+  </widget>
+  <widget class="QCommandLinkButton" name="emo9">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>90</y>
+     <width>32</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>32</width>
+     <height>32</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>32</width>
+     <height>32</height>
+    </size>
+   </property>
+   <property name="toolTip">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;^^&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../client-build-desktop-Qt_4_8_1_for_Desktop_-_MSVC2010__Qt_SDK__Release/release/emoticones/9.png</normaloff>../client-build-desktop-Qt_4_8_1_for_Desktop_-_MSVC2010__Qt_SDK__Release/release/emoticones/9.png</iconset>
+   </property>
+  </widget>
+  <widget class="QCommandLinkButton" name="emo10">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>90</y>
+     <width>32</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>32</width>
+     <height>32</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>32</width>
+     <height>32</height>
+    </size>
+   </property>
+   <property name="toolTip">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:3&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../client-build-desktop-Qt_4_8_1_for_Desktop_-_MSVC2010__Qt_SDK__Release/release/emoticones/10.png</normaloff>../client-build-desktop-Qt_4_8_1_for_Desktop_-_MSVC2010__Qt_SDK__Release/release/emoticones/10.png</iconset>
+   </property>
+  </widget>
+  <widget class="QCommandLinkButton" name="emo11">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>90</y>
+     <width>32</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>32</width>
+     <height>32</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>32</width>
+     <height>32</height>
+    </size>
+   </property>
+   <property name="toolTip">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:'(&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../client-build-desktop-Qt_4_8_1_for_Desktop_-_MSVC2010__Qt_SDK__Release/release/emoticones/11.png</normaloff>../client-build-desktop-Qt_4_8_1_for_Desktop_-_MSVC2010__Qt_SDK__Release/release/emoticones/11.png</iconset>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
